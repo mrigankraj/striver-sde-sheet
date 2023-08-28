@@ -1,7 +1,8 @@
 # striver-sde-sheet
 This repository contains the solution to all the questions of Striver's SDE Sheet
-1.) Arrays:
 
+
+1.) Arrays:
 
 #Kadane's Algorithm(Maximum subarray)
 #Pascal's Triangle
